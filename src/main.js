@@ -1,6 +1,5 @@
 // Daniel Nguyen
 // Dnguy182@ucsc.edu
-<<<<<<< HEAD
 // Rakhi Narain
 // rmnarain@ucsc.edu
 // Game Title: Highway Escape
@@ -15,8 +14,6 @@ spawn frequency and speed of the road increased as you dodged more obstacles and
 when you ran into obstacles.
 */
 
-=======
->>>>>>> parent of ccc57e1... done2
 
 let config = {
      type: Phaser.CANVAS,
@@ -27,7 +24,7 @@ let config = {
 
 let game = new Phaser.Game(config);
 
-// define game settings
+// define game settingsss
 game.settings = {
     obstacleFreq: 1800,
     minSpeed: 1800,
