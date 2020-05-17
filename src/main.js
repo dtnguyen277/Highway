@@ -1,5 +1,6 @@
 // Daniel Nguyen
 // Dnguy182@ucsc.edu
+<<<<<<< HEAD
 // Rakhi Narain
 // rmnarain@ucsc.edu
 // Game Title: Highway Escape
@@ -7,9 +8,15 @@
 // Creative Tilt
 /*
 While programming this game I used new methods that I learned a lot and used new things that 
-I had never done before. An example of this
+I had never done before. An example of this is the procedural obstacle generation I created.
+Instead of respawning and recylcing obstacles. I used a stack where I pushed on new obstacles
+spliced off old ones when they weren't needed. I also created a difficulty curve where the 
+spawn frequency and speed of the road increased as you dodged more obstacles and slowed down
+when you ran into obstacles.
 */
 
+=======
+>>>>>>> parent of ccc57e1... done2
 
 let config = {
      type: Phaser.CANVAS,
